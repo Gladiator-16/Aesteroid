@@ -3,7 +3,7 @@
 
 Asteroid is a classic 90's game, my verion of asteroid uses the [Stage.js](https://www.npmjs.com/package/stage-js) to run.
 
-![Aestroids](https://imgur.com/a/a9WUyvK)
+![aestroid](https://github.com/Gladiator-16/Aesteroid/blob/main/Screenshot%202021-04-09%20104945.png)
 
 If you want to see a live version of it, it's hosted [here](aestroid.netlify.app).
 
